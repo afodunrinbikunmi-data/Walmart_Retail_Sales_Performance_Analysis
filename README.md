@@ -1,5 +1,5 @@
 # Walmart_Retail_Sales_Performance_Analysis
-A Power BI Business Intelligence project analyzing 6,436 records to identify the correlation between macroeconomic factors (Fuel Price, CPI, Unemployment) and retail performance.
+A Business Intelligence project analyzing 6,436 records to identify the correlation between macroeconomic factors (Fuel Price, CPI, Unemployment) and retail performance.
 
 ## Project Summary
 An analysis of weekly sales performance across 45 Walmart store locations covering 6,436 weekly records over three years (2010–2012).
