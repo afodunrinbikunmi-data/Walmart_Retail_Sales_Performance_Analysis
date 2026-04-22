@@ -82,7 +82,7 @@ The Power BI dashboard contains 2 report pages:
 | External Factors | Fuel vs sales, unemployment scatter, temperature vs sales, KPI cards |
 
 ## Project Structure
-'''text
+```text
 ├── data/
 │   └── walmart_sales.xlsx
 ├── dashboard/
@@ -93,4 +93,4 @@ The Power BI dashboard contains 2 report pages:
 │   ├── sales_performance.png
 │   └── external_factors.png
 └── README.md
-'''
+```
