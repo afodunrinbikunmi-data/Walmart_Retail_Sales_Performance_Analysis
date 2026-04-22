@@ -5,8 +5,7 @@ A Power BI Business Intelligence project analyzing 6,436 records to identify the
 An analysis of weekly sales performance across 45 Walmart store locations covering 6,436 weekly records over three years (2010–2012).
 The goal was to identify what drives sales — examining store performance gaps, holiday impact, seasonal trends, and the relationship between sales and external economic factors.
 
-**Key finding: Fuel prices show the strongest external correlation
-with weekly sales — more impactful than unemployment, temperature,
+**Key finding: Fuel prices show the strongest external correlation with weekly sales more impactful than unemployment, temperature,
 or CPI.**
 
 ## Dataset Overview
