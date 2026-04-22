@@ -94,3 +94,8 @@ The Power BI dashboard contains 2 report pages:
 │   └── external_factors.png
 └── README.md
 ```
+
+## About me
+Afodunrinbi Samad Akinkunmi
+ Data Analyst | Excel | Power BI
+- [LinkedIn] | [Medium Article Link]
