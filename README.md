@@ -13,8 +13,8 @@ or CPI.**
 ## Dataset Overview
 | Field | Detail |
 |---|---|
-| Records | 6,436 weekly sales entries |
-| Stores | 45 locations |
+| **Records** | 6,436 weekly sales entries |
+| **Stores** | 45 locations |
 | Period | 2010 — 2012 |
 | Source | Walmart Store Sales Dataset (Kaggle) |
 
