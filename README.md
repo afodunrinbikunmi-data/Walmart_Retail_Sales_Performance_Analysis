@@ -106,5 +106,8 @@ The Power BI dashboard contains 2 report pages:
 
 ## About me
 Afodunrinbi Samad Akinkunmi
- Data Analyst | Excel | Power BI
-- [LinkedIn] | [Medium Article Link]
+I am a Certified Data Analyst with a strong passion for transforming raw data into meaningful insights that support informed decision-making. My work focuses on exploring datasets, identifying patterns, and communicating findings in a clear and impactful way. I enjoy approaching problems analytically, breaking them down into structured steps, and uncovering the story behind the data. Beyond data analysis, I am actively expanding towards becoming a Data Scientist, with an interest in building predictive modeling and advanced analytics.
+
+Data Analyst | Excel | Power BI | Python | SQL | Figma
+
+Connect With Me On - [LinkedIn](https://www.linkedin.com/in/akinkunmiafod) | [Medium](https://medium.com/@afodunrinbikunmi) | [Gmail](afodunrinbikunmi@gmail.com)
