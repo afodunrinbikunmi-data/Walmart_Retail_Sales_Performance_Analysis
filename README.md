@@ -115,4 +115,4 @@ I am a Certified Data Analyst with a strong passion for transforming raw data in
 
 Data Analyst | Excel | Power BI | Python | SQL | Figma
 
-Connect With Me On - [LinkedIn](https://www.linkedin.com/in/akinkunmiafod) | [Medium](https://medium.com/@afodunrinbikunmi) | [Gmail](afodunrinbikunmi@gmail.com)
+Connect With Me On - [LinkedIn](https://www.linkedin.com/in/akinkunmiafod) | [Medium](https://medium.com/@afodunrinbikunmi) | Gmail: afodunrinbikunmi@gmail.com
