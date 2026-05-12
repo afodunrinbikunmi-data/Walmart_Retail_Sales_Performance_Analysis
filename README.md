@@ -80,9 +80,9 @@ or CPI.**
 
 
 ## Recommendations
-1. Audit bottom 10 stores — 9× gap is a business problem, not a market reality
-2. Build tiered holiday promotional calendar based on individual event performance
-3. Monitor fuel prices weekly — trigger promotions when prices fall
+1. **Audit bottom 10 stores** — 9× gap is a business problem, not a market reality
+2. **Build tiered holiday promotional calendar based on individual event performance**
+3. **Monitor fuel prices weekly** — trigger promotions when prices fall
 
 
 ## Dashboard / Visualization
