@@ -15,30 +15,30 @@ or CPI.**
 |---|---|
 | **Records** | 6,436 weekly sales entries |
 | **Stores** | 45 locations |
-| Period | 2010 — 2012 |
-| Source | Walmart Store Sales Dataset (Kaggle) |
+| **Period** | 2010 — 2012 |
+| **Source** | Walmart Store Sales Dataset (Kaggle) |
 
 
 ## Key Columns in the Dataset
 | Column | Description |
 |---|---|
-| Store | Unique store identifier (1–45) |
-| Date | Week ending date for each record |
-| Weekly_Sales | Total weekly revenue per store |
-| Holiday_Flag | Binary (1 = holiday week, 0 = regular week) |
-| Temperature | Average regional temperature (°F) |
-| Fuel_Price | Average regional fuel price per gallon ($) |
-| CPI | Consumer Price Index — cost of living measure |
-| Unemployment | Regional unemployment rate (%) |
+| **Store** | Unique store identifier (1–45) |
+| **Date** | Week ending date for each record |
+| **Weekly_Sales** | Total weekly revenue per store |
+| **Holiday_Flag** | Binary (1 = holiday week, 0 = regular week) |
+| **Temperature** | Average regional temperature (°F) |
+| **Fuel_Price** | Average regional fuel price per gallon ($) |
+| **CPI** | Consumer Price Index — cost of living measure |
+| **Unemployment** | Regional unemployment rate (%) |
 
 
 ## Tools Used
 | Tool | Purpose |
 |---|---|
-| Microsoft Excel | Data cleaning, feature engineering, PivotTable analysis |
-| Power Query | Date format standardisation via locale conversion |
-| Microsoft Power BI | DAX measures, 2-page interactive dashboard |
-| DAX | Custom KPI measures and external factor calculations |
+| **Microsoft Excel** | Data cleaning, feature engineering, PivotTable analysis |
+| **Power Query** | Date format standardisation via locale conversion |
+| **Microsoft Power BI** | DAX measures, 2-page interactive dashboard |
+| **DAX** | Custom KPI measures and external factor calculations |
 
 
 ## Data Cleaning & Preparation
@@ -46,12 +46,16 @@ or CPI.**
 - Converted all columns to correct data types
 - Verified zero duplicate records across 6,436 rows
 - Checked for missing values — none found
+
+![image description](https://github.com/afodunrinbikunmi-data/Walmart_Retail_Sales_Performance_Analysis/blob/main/power%20walmart.png)
+
 - Engineered calculated columns:
-  - `Holiday Label` — converts binary flag to Holiday Week / Regular Week
-  - `Sales Band` — classifies weekly sales as High, Medium or Low
-  - `Year` — extracted from date for YoY analysis
-  - `Month` — extracted from date for seasonal trend analysis
-  - `Day` — extracted from date for granular temporal analysis
+  - **`Holiday Label`** — converts binary flag to Holiday Week / Regular Week
+  - **`Sales Band`** — classifies weekly sales as High, Medium or Low
+  - **`Year`** — extracted from date for YoY analysis
+  - **`Month`** — extracted from date for seasonal trend analysis
+  - **`Day`** — extracted from date for granular temporal analysis
+  ![image description](https://github.com/afodunrinbikunmi-data/Walmart_Retail_Sales_Performance_Analysis/blob/main/column%20excel%20walmart.PNG)
 
 
 ## Key Questions & Analysis
@@ -84,11 +88,12 @@ or CPI.**
 ## Dashboard / Visualization
 The Power BI dashboard contains 2 report pages:
 
-| Page | Focus |
-|---|---|
-| Sales Performance | KPIs, sales trend by year, store performance bar, holiday comparison |
-| External Factors | Fuel vs sales, unemployment scatter, temperature vs sales, KPI cards |
+![image description](https://github.com/afodunrinbikunmi-data/Walmart_Retail_Sales_Performance_Analysis/blob/main/walmart%20dashboard.png)
 
+1 **Sales Performance**: KPIs, sales trend by year, store performance bar, holiday comparison
+![image description](https://github.com/afodunrinbikunmi-data/Walmart_Retail_Sales_Performance_Analysis/blob/main/Store%20Performance%20Dashboard%201.png)
+2 **External Factors**: Fuel vs sales, unemployment scatter, temperature vs sales, KPI cards
+![image description](https://github.com/afodunrinbikunmi-data/Walmart_Retail_Sales_Performance_Analysis/blob/main/External%20Factore%20Dashboard%201.png)
 
 ## Project Structure
 ```text
