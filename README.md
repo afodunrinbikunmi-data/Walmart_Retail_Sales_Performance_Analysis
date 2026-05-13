@@ -78,13 +78,6 @@ or CPI.**
 - **Temperature effect overridden by holidays** — December cold + December high sales
 - **Revenue heavily concentrated** — small number of stores carry the network
 
-
-## Recommendations
-1. **Audit bottom 10 stores** — 9× gap is a business problem, not a market reality
-2. **Build tiered holiday promotional calendar based on individual event performance**
-3. **Monitor fuel prices weekly** — trigger promotions when prices fall
-
-
 ## Dashboard / Visualization
 The Power BI dashboard contains 2 report pages:
 
@@ -94,6 +87,17 @@ The Power BI dashboard contains 2 report pages:
 ![image description](https://github.com/afodunrinbikunmi-data/Walmart_Retail_Sales_Performance_Analysis/blob/main/Store%20Performance%20Dashboard%201.png)
 2 **External Factors**: Fuel vs sales, unemployment scatter, temperature vs sales, KPI cards
 ![image description](https://github.com/afodunrinbikunmi-data/Walmart_Retail_Sales_Performance_Analysis/blob/main/External%20Factore%20Dashboard%201.png)
+
+## Conclusion
+- **Multivariate Performance Drivers**: Identified that sales success is a complex synergy of store-level logistics, seasonal demand, and external macroeconomic indicators.
+- **Fuel Price as a Strategic Lever**: Uncovered fuel prices as a primary indicator for timing promotional activities, enabling a shift from reactive to proactive commercial planning.
+- **Operational Optimization**: Pinpointed a 9× performance gap between top and bottom-tier stores within the same network, framing it as a key area for high-ROI intervention.
+- **Data-Driven Seasonal Strategy**: Challenged conventional retail assumptions by quantifying the disparate impact of specific holidays, optimizing resource allocation for peak events.
+
+## Recommendations
+1. **Audit bottom 10 stores** — 9× gap is a business problem, not a market reality
+2. **Build tiered holiday promotional calendar based on individual event performance**
+3. **Monitor fuel prices weekly** — trigger promotions when prices fall
 
 ## Project Structure
 ```text
